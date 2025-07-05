@@ -1,19 +1,55 @@
-<h1 align="center">Hi 👋, I'm Jyotirmay Swarnakar</h1>
-<h3 align="center">Eager to Learn. Quick to Build. Passionate to Secure.</h3>
+# 👨‍💻 Jyotirmay Swarnakar | Cybersecurity Enthusiast 🔐
 
-- 🌱 I’m currently learning **Ethical Hacking & Penetration Testing**
+Hi! I'm Jyotirmay, a passionate learner and builder in the world of **Cybersecurity**.  
+From understanding how systems are exploited to building tools that prevent those attacks, my GitHub is where I share my knowledge, experiments, and progress in the cyber realm.
 
-- 💬 Ask me about **Web security, Webapp devlopment**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🔒 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🧠 Currently learning core cybersecurity concepts through hands-on labs and real-world scenarios.
+- 🛠️ Building simple yet practical cybersecurity tools and automation scripts.
+- 💬 Active in cybersecurity communities, forums, and CTF discussions.
+- 📚 Focused on areas like vulnerability scanning, basic malware analysis, and network security.
 
+---
 
-<!---
-JyotirmaySwarnakar/JyotirmaySwarnakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧰 My Cybersecurity Skills
+
+- 🧪 Penetration Testing (beginner-level)
+- ⚙️ Python for security automation
+- 🔍 Basic Recon & Scanning (Nmap, WHOIS, dig, etc.)
+- 🖥️ Linux (essential commands, bash scripting)
+- 🧱 Basic Firewall, Proxy, VPN, and Network Configuration
+- 📜 Writing simple log analyzers and scanners
+
+---
+
+## 📂 What You'll Find Here
+
+- 🛡️ Mini tools: scanners, analyzers, password checkers
+- 📑 Write-ups and documentation of labs/CTFs I've completed
+- 🧪 Scripts automating common tasks in infosec
+- 📁 Projects that show real-world cybersecurity applications (WIP)
+
+---
+
+## 📈 Learning Roadmap
+
+I'm actively working toward:
+- ✳️ Gaining OSINT & social engineering basics
+- 🔐 Practicing Web App Security (OWASP Top 10)
+- ⚡ Writing more tools in Python
+- 🧠 Preparing for beginner-level certifications (like CEH, Security+)
+
+---
+
+## 🤝 Let's Connect
+
+- 💬 Open to collaboration on beginner cybersecurity projects
+- 📨 Reach me for knowledge sharing, guidance, or just to geek out about cyber stuff
+
+---
+
+> *"Security is not a product, but a process."* – Bruce Schneier
+
